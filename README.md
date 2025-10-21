@@ -1,0 +1,3 @@
+This project presents a data-driven recreation of the ICC Men’s T20 World Cup 2024 through a Power BI dashboard, where I analyzed player performances across multiple metrics and built my Best Playing XI of the tournament. The team selection was based on key performance indicators such as strike rate, average, economy, wicket-taking impact, and overall match influence, categorized into openers, middle order, all-rounders, and bowlers.
+
+By combining statistical insights with cricketing intuition, this final XI showcases a lineup capable of consistently scoring high totals and defending competitive targets. The dashboard provides an immersive view of player comparisons, category-wise rankings, and overall team potential.
